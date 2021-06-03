@@ -1,4 +1,4 @@
-# Marp_theme_for_THUslides
+# Marp_theme_for_OUCslides
 使用 Marp 制作中国海洋大学组会 Slides模板(可以换自己学校的背景图片)
 
 因为懒,不想用 PPT 做组会的 Slides,所以马哥做了一个 Marp 的模板直接套平时 Markdown 的笔记,就能出 Slides.
